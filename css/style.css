@@ -9,9 +9,10 @@ body {
   /* font-family: "Open Sans", sans-serif; */
   font-style: italic;
 }
-
-.container {
+html {
   background-color: #161616;
+}
+.container {
   padding: 30px;
 }
 
